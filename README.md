@@ -1,6 +1,6 @@
 # android-retrofit-tutorial
-<<<<<<< HEAD
-his tutorial/lab aims to provide hands-on experience of building an Android app that retrieves and displays data with REST API
+This is one of assignments in 264P.
+- Fetched data from https://www.themoviedb.org/ and display the data in an Activity in existing framework.
 =======
 
 This tutorial/lab aims to provide hands-on experience of building an Android app that retrieves and displays data with REST API. We will first introduce how to:
