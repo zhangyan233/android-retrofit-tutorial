@@ -1,0 +1,7 @@
+#Wed Mar 13 21:42:08 PDT 2024
+base.0=E\:\\swe\\264P-software architecture\\Assignment4\\android-retrofit-tutorial\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\swe\\264P-software architecture\\Assignment4\\android-retrofit-tutorial\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
